@@ -1,6 +1,6 @@
-(resources are along the way: de\labystudio\utils\me...)
+(version sativa v17 LabyMod-1.8.8 - resources are along the way: de\labystudio\utils\me...)
 
-Minecraft Hack Mod sativa v17 SRC
+Minecraft Client Hack sativa v17 SRC
 
 ------------------------------
 
